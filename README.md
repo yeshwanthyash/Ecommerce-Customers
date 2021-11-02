@@ -1,7 +1,3 @@
-
-
-<a href='http://github.com/karthickai'> <img src='Karthick_Ai.png' /></a>
-
 # Linear Regression 
 
 Amazon_cloths sells cloths online. Customers come in to the store, have meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
